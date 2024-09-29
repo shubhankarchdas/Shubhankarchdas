@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **E-commerce website**
 
-- 🌱 I’m currently learning **Web Development**
+
 
 - 💬 Ask me about **C , C++**
 
