@@ -1,4 +1,3 @@
-[![MasterHead](https://i.pinimg.com/originals/7e/2a/eb/7e2aeb1567e91bfc2404cecca6aceecd.gif)]
 <h1 align="center">Hi 👋, I'm Shubhankar ch das</h1>
 <h3 align="center">The Hungry developer from India</h3>
 
