@@ -5,15 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhankarchdas&label=Profile%20views&color=0e75b6&style=flat" alt="shubhankarchdas" /> </p>
 
-- 🔭 I’m currently working on **E-commerce website**
+- 🔭 I’m currently finished a responsive **E-commerce website(Luxury watch store)**
 
 
 
 - 💬 Ask me about **C , C++**
 
-- 📫 How to reach me **shubhankarchdas@gmail.com**
+- 📫 How to reach me **shubhankarchdas8@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
