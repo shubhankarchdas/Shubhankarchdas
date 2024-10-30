@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubhankar ch das</h1>
 <h3 align="center">&lt;/&gt;</h3>
 
-<img align="right" alt="Coding" width=100% height=200px src="https://giphy.com/embed/xTiTnx37nc3vjsdeLK">
+<img align="right" alt="Coding" width=100% height=200px src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJrbGV6dDMyMW1veDU5b2s4OG14ZWM0OHlkMjB0dnZpamN1aGl2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnx37nc3vjsdeLK/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhankarchdas&label=Profile%20views&color=0e75b6&style=flat" alt="shubhankarchdas" /> </p>
 
