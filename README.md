@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubhankar ch das</h1>
 <h3 align="center">&lt;/&gt;</h3>
 
-<img align="right" alt="Coding" width=100% height=200px src="https://pixabay.com/gifs/eye-robot-future-technology-12452/">
+<video align="right" alt="Coding" width=100% height=200px src="https://pixabay.com/gifs/eye-robot-future-technology-12452/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhankarchdas&label=Profile%20views&color=0e75b6&style=flat" alt="shubhankarchdas" /> </p>
 
