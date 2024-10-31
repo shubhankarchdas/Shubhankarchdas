@@ -5,6 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhankarchdas&label=Profile%20views&color=0e75b6&style=flat" alt="shubhankarchdas" /> </p>
 
+- 🔭 I’m currently Working on **Python**
 
 - 🔭 I’m currently finished a responsive **E-commerce website(Luxury watch store)**
 
