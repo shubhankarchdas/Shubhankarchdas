@@ -5,13 +5,7 @@
 
 - 🔭 I’m currently Working on **Python**
 
-- 🔭 I’m currently finished a responsive **E-commerce website(Luxury watch store)**
-
-
-
-- 💬 Ask me about **C , C++**
-
-- 📫 How to reach me **shubhankarchdas8@gmail.com**
+- 📫 How to reach me **shubhankarchdas@gmail.com**
 
 <p align="left">
 </p>
@@ -21,6 +15,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhankarchdas&show_icons=true&locale=en&layout=compact" alt="shubhankarchdas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhankarchdas&show_icons=true&locale=en" alt="shubhankarchdas" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhankarchdas&" alt="shubhankarchdas" /></p>
