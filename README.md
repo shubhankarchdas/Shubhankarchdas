@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Shubhankar Ch Das </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&multiline=true&lines=👋+Hey%2C+I'm+Shubhankar!;🚀+Python+Developer;⚙️+Tech+Explorer+%26+Innovator;🌐+Creating+the+Future..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&multiline=true&lines=👋+Hey%2C+I'm+Shubhankar!;alt="Typing SVG" />
 </p>
 
 <p align="center">
